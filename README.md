@@ -2,7 +2,7 @@
 
   plugin for changing the layout of already printed text ([CorniLemon/switch-layot: switch the layout of the already written text (github.com)](https://github.com/CorniLemon/switch-layot))
 
-a plugin to turn your "==руддщ цщкдв==" into "==hello world==" and back!
+a plugin to turn your "*руддщ цщкдв*" into "*hello world*" and back!
 
 ### for work: 
 1. install and enable the plugin
@@ -11,7 +11,7 @@ a plugin to turn your "==руддщ цщкдв==" into "==hello world==" and bac
 4. Press the selected keyboard shortcuts
 
 ### Demo:
-![[switch_layout_demo.jpg]]
+![Demo](switch_layout_demo.jpg)
 
 **What languages does it work with?**
 - Russian
