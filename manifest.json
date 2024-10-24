@@ -1,9 +1,10 @@
 {
 	"id": "switch-layout",
 	"name": "Switch layout",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Changes the layout of the typed text",
+	"description": "Changes the layout of the typed text.",
 	"author": "CorniLemon",
-	"repo": "https://github.com/CorniLemon/switch-layot"
+	"authorUrl": "https://www.artstation.com/cornilemon5",
+	"isDesktopOnly": false
 }
